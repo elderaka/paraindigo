@@ -1,0 +1,164 @@
+//RULES:
+1. Gak boleh delete kecuali typo
+2. Kalo mo ngedit, cuman boleh bikin dibawahnya //Edit sekian:
+3. Meskipun krinj, GAK BOLEH DELETE
+
+
+day 1:
+most basic, sama 2 sistem bullet
+day 2:
+nambah 2 sistem bullet lagi, homing sama laser
+day 3:
+nambah debug/cheat mode, otw nambahin menu + pilihan stage
+day 4:
+selesai semua konsep stagenya, grazez system, sama 1 skill doang...
+day 5:
+harus coba2 bikin bullet hellnya, dan juga bikin stage Styx Rai, finally learn gimana boss works
+sekaligus phase2nya, dan udah belajar tentang golden ratio. Styx Rai 3/4
+day 6: 18/01
+Styx Rai complete, selesai dialogue box, template bullet, dan juga sound system (hopefully stage selection) 
+day 7: 19/01
+//Target = Eros Rai
+//Finished = selesai semua dialog characternya, cabang2nya, dan semoga endingnya. Baru satu stage Arkas Rai doang
+day 8: 20/01
+//Target = Eros Rai
+//Finished = Eros Rai selesai semua, dan placeholder dari backgroundnya selesai
+day 9: 21/01
+//Target = Sirius Rai
+//Finished = Sirius Rai 4/5, Author mati pas ngerjain PHASE 4NYA AAAAAHHHH ANJGGGGG SANITY GW ASSGSAOGHIAUGHI
+day 10: 22/02
+//Target = Sirius Rai
+//Finished = Sirius Rai. I lost my track
+day 11: 23/02
+//Target = Antares Rai
+//Finished = I fucking lose my mind
+I really fucking lose my mind
+please help me
+day 12: 24/02
+//Target = Antares Rai
+//Finished = Semua boss, mau nambah sound effect + Music, test pertama ntar, trus branches stagenya
+day 13: 25/02
+//Target = UI cleaning 
+// I forgor lol
+day 14: 26/02
+//Target = Sprite cleaning + Story
+//90% complete
+day 15: 27/01
+//Target = Soundtrack
+//notes: okay, ini hari terakhir. sebelum jam 2 harus SIAP SEMUANYA, DAN ABIS ITU LANGSUNG RECORD
+//Yang harus disiapin:
+//Royalty free music/sfx
+//talking effect
+//using skill effect
+//sprite Terra Rai
+//royalty free bg
+HOLY FUCKING SHIT
+SISA 1 HARI
+TINGGAL NGEDIT
+TAPI
+INI
+SOUNDNYA
+GW KELABAKAN
+MASIH COPYRIGHT SEMUA KEBANYAKAN
+IF ONLY I HAD MORE TIME
+I CAN MAKE MY OWN MUSIC
+
+day 16: 28/01
+//Target = Cleanup + submission
+
+day 17??
+Apparently the deadline got postponed. Can I actually finish this game for real? But first,
+i need to learn how to make music
+
+day 18: 1/02
+okay, I'm back. Kali ini gw pengen balik kesini, cuman buat liat ulang skrip2nya. Probably bakal balik dalam seminggu
+setelah akhirnya ketemu melodi yg cocok buat game ini.
+If only I had more talent on songwriting
+
+day 19: 05/02
+Development block rn, tpi ttp bakal nyoba lanjut dlu either ngerapiin, bikin dialogue, etc
+okey, first. Sekarang 5/02/2022 gw pengen rombak ulang dialogue systemnya, bener2 harus dirapiin
+misalnya, semua dialog bakal gw simpen didalem script.
+I shouldn't procrast and start developing
+
+day 20: 06/02
+Writing block rn. Harusnya coba bikin intro yg bisa dipake dua kali ntar. pas pertama boot ama pertama kali tamatin gamenya.
+untuk bgm alhamdulillah udah siap bikinan ndiri.
+
+day 21: 07/02
+I got brainfog. Nothing particular
+
+day 22: 08/02
+I'm tired. Nvm, got my daily booster of redbull + chocolate. Now I'm kinda motivated
+bikin intro, ama abis firstbeaten klo bakal lawan Ada lagi for last boss. Sekarang tinggal mikir
+7 fase buat lawan Ada, dan apa aja patternnya.
+...somehow something as simple as o_splash has the worst batch of code rn
+
+day 23: 09/02
+Not related to coding. But my relationship with Sesa has been better than before. That probably going to be
+a small boost for my productivity
+
+
+day 24: 10/02
+Masih brainfog ampe karang. Ampe kelarin select system aja belom jadi. Gimana yak biar bisa motivasi lagi
+hmm. Come on, I need to stay motivated. Please. Meski kadang ini hurt myself, gw tetep harus bisa
+setidaknya selesain dulu storylinenya, abis itu untuk fase2 ada bisa dipikir lagi nanti.
+Sometime I wonder, for someone on my age, does my skill is actually good enough? Let people decide I guess
+
+day 25: 11/02
+//TODO: splashscreen game 2 abis mati, kabur, etc2
+//Finished: As expected
+
+day 26: 12/02
+//TODO: mulai mikir pattern2nya, sama storynya dipolish lagi maybe.
+well, yang mesti dipikir itu mau kek mana. 1 big hp gitu yg dibagi2 fasenya ato gimana.
+Probably going to look Flowey undertale fight as reference. After a quick look, I need to make my Ada character
+a little bit more unique. Plotnya masih sama. Tapi kenapa dia pengen gitu. I mean, Ada secara karakter sebagai
+kreationis dia itu sebenernya paling lemah, trus dimanfaatin ama [The A]. Which is a mistake
+keknya gw bikin aja pas tamat backstory Ada.
+14:54
+I can't even mutter what am I thinking. I can't even focus.
+fuck it, let's just try to work. But the more I push myself
+the more it's hurt my mental. I don't know what should I blame this time
+
+day 27-28: 13/02 - 14/02
+took a few rest this time, beli coklat, ngerinem sesa jadi sesayank (abistu rinem jadi sesababi)
+
+day 29: 15/02
+bentar lagi masuk milestone 1 bulan, tpi ini ada battle aja lom kelar. malah nontonin gimana gamedev dijepang sana
+okay //TODO: kelarin semua plotnya dlu deh
+WEIT, PROGRESS STORY GW ANJINGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG GAK KESAVE BANGSAT
+disaat kek gini gw jadi kangen dual monitor pas dibekasi dulu
+god fucking dammit. all of my progress
+
+day 30 - 33: 16/02 - 19/02
+okay gw lupa bikin celebrate milestone 1 bulan
+just gonna throw this here:
+ending 1: lawan final boss, abisin minimal 1 fase healthbar dia (Neutral ending)
+ending 2: lawan final boss, gak nembak dia samsek (Worthy ending)
+ending 3: lawan final boss, mati lebih dari 15 kali (Insanity ending)
+ending 4: bantu final boss, trus betray dia (Chaotic ending)
+ending 5: bantu final boss, tunggu abis topik (True ending)
+ending 6: bantu final boss, diemin beberapa hari (Tier 0 Ending)
+ending 7: bantu final boss, mati lebih dari 15 kali (Loser ending)
+ending 8: make godmode/cheatmode sejak tutorial (act 0) (Cheater ending) 
+ending 9: make godmode/cheatmode secara berkala (act 1) (Unforgivable ending)
+ending 10: tamatin semua ending, trus reset (goddamn ini overdid bet ending)
+window_set_caption, untuk buat nanti bikin hint gimana caranya keluar dari pikiran Ada
+
+day 31: 20/02
+surprise surprise
+gak ada progress samsek
+
+day 32: 21/02
+mythought ama MYTHOUGHT_ kelar
+goddamn tapi adadialogue lom kelar
+3:24, lanjut gak ya?
+
+day 33 - 10/3
+gada progress
+kopit
+
+day ??
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwmpppppppppppppppppppmmmmmmmmmrwrrrraffffffffffffffdffffffffhhohxcccccccccccccccc
+I should've done better

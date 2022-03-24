@@ -1,0 +1,27 @@
+/// @description Darahnya
+image_speed = 0;
+defaultmax = ((12 * 12) * (1.2^12)) - ((12*12)*(12-1.2-1.2-1.2-1.2-1.2))
+playedmusic = false
+image_index = 0;
+pattern = 0
+angle_b = 0
+selectpattern = true
+patternbefore = 0
+//move = 0;
+boss_timer=0;
+close_timer=0
+tembak = true
+called = false
+useskill = 0
+healthbar_width = 965
+healthbar_height = 29
+healthbar_x = 217
+healthbar_y = 30
+angle_a = 0
+check = 0;
+page = 0;
+dodialogue = false
+pagelength = 1
+stubborn = 0
+spawned = false
+angle_2 = 0

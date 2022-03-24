@@ -1,0 +1,77 @@
+title_screen:
+- Mainkan
+- Cek status
+- Cara bermain
+- Keluar
+
+Boss Tersedia:
+Styx Rai
+Sustyx Rai (Hidden easter egg 10% kalo cara bermain)
+Arkas Rai
+SIrius Rai
+Terra Rai
+Ada Cherubim
+
+select_screen:
+2d style scrolling ke samping
+- Bullet type
+- level selection
+- informasi level
+
+training_stage:
+muncul saat pertama kali diboot, untuk latihan main
+- vs Daemon Styx Rai
+- atk pattern ez, cuman ngindar2in bullet
+- ada 3 fase:
+- [Jam - Rotasi Peluru]: Bullet Rain biasa, 2 bola disamping Styx terus diluncurin
+- [Spasi - Dilasi Ruang]: Bullet Rain vertikal, deccel, trus accel, trus deccel
+- [Penjaga Feri: Styx Rai]: Bullet Rain dari atas dan bawah, semacam animal cross gitu
+
+styxphasestage:
+- vs Eros Rai (Weakness: Homing) (Strong: Spread) alasan: hitbox kecil dan juga kencang;
+- atk pattern spread, trus fokus, mirip Styx tapi lebih agresif
+- ada 5 fase:
+- [Waktu - Akselerasi Temporal]: Eros tembak 6 bullets yang makin diakselerasi dan difokusin ke player
+- [Ruang - Distorsi Cakrawala]: Eros tembak 6 Peluru yang nanti mantul kalo kena edgenya
+- [Waktu - Distorsi Temporal]: Ntar beberapa spot randomly dipercepat/diperlambat
+- [Ruang dan Waktu  - Manipulasi Tali Waktu]: mainin ilusi, ntar peluru random muncul/ menghilang
+- [Waktu - Jam Berhenti]: Ntar tiba2 muncul banyak
+
+Sirius_Stage:
+- vs Sirius Rai (Weakness: Laser) (Strong: Homing) alasan: hitbox gede dan lemot, homing terdistraksi semua
+- atk pattern follow dan bullet2, kebanyakan main sirkel
+- ada 5 fase:
+- [Gravitasi - Perangkap Bintang yang Akan Mati]
+- [Gravitasi - Ledakan Supernova yang Mengawali Semesta]
+- [Gravitasi - Cahaya Tuhan yang Mendampingi Semesta]
+- [Gravitasi - Lubang Hitam yang Mengakhiri Semesta]
+- [Kreationis: Penjelmaan Semesta-2]
+
+Antares_Stage:
+- vs Alice Tet-Terra Rai, (Weakness: Spread) (Strong: Laser) alasan: Clotholikum bisa block laser, Spread bisa kena semua
+- atk pattern kebanyakan Laser, lempar uler, ledakan. Fokus ke limit gerakan musuh
+- ada 5 fase:
+- [Hal - Azidoazide Azide]: Laser trus meledak
+- [Hal - Clothozoa Tungstenozoid] - Ngirim ulernya buat ngikutin sambil nembak random
+- [Hal - Ultima: Antimaterial] - pattern bunga 2 warna trus ganti2an yg antimatter sama ngganya
+- [La'un Tserra Achio Vorra: Dan dunia akan memberikan pertimbangannya] - Hujan laser
+- [Un Dzar Clotholikum Farro Mano Tallisora - Kemudian Raja Diraja Clotholikum akan melingkari Galaksi] - ulernya agresip
+
+Special_stage:
+- vs Ada Cherubim
+- atk pattern campur semua, tapi paling agresif sama paling indah
+- ada 7 fase:
+- [Kreationis: Nirwana Pancarona]: Tujuh laser mirip EoL
+- [Kreationis: Elegi untuk kematian]: bulet2 muter sama ribet
+- [Kreationis: Jenggala Usai Riwayat]: bikin bullets random kek chorus fruit
+- [Kreationis: Hening Asa]: semuanya hitam putih
+- [Kreationis: Ejawantah Eunoia] bentuknya kek helix
+- [Kreationis: Litani Klandestin]: dari bawah tumbuh pohon kek jenggala
+- [Kreationis: Sang Esa]: Full bullet rain
+
+IMPORTANTT, LIKE SUPER IMPORTANT
+PELAJARIN TENTANG GOLDEN RATIO
+WAJIB
+GOLDEN RATIO
+IS 
+EVERYTHING
