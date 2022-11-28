@@ -1,7 +1,6 @@
 # paraindigo
-Yang ada skripnya itu di .GML, dan kebanyakan scriptnya ditarok di step
+The source codes of my first ever big solo project, nirwana Pancarona
 o_ = object;
 s_ = sprite
 b  = bullet
 etc etc
-Di notes, ada progress. Itu progress gw + gimana gw bisa ilang sanitynya
